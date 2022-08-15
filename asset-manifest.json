@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brixoReact2/static/css/main.6209e817.css",
+    "main.js": "/brixoReact2/static/js/main.1681d052.js",
+    "static/js/787.dc6354fb.chunk.js": "/brixoReact2/static/js/787.dc6354fb.chunk.js",
+    "static/media/doc2.png": "/brixoReact2/static/media/doc2.3accceb4a882f1247620.png",
+    "static/media/doc.png": "/brixoReact2/static/media/doc.3bc93d6be2a6aa6716a2.png",
+    "static/media/logo.svg": "/brixoReact2/static/media/logo.9a63b33fa51a8513393605fc2ea62f08.svg",
+    "static/media/calendar.svg": "/brixoReact2/static/media/calendar.8a8ca0a5be9e5c00cc6c.svg",
+    "static/media/close.svg": "/brixoReact2/static/media/close.35a998dd543e4ee53ecf.svg",
+    "index.html": "/brixoReact2/index.html",
+    "main.6209e817.css.map": "/brixoReact2/static/css/main.6209e817.css.map",
+    "main.1681d052.js.map": "/brixoReact2/static/js/main.1681d052.js.map",
+    "787.dc6354fb.chunk.js.map": "/brixoReact2/static/js/787.dc6354fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6209e817.css",
+    "static/js/main.1681d052.js"
+  ]
+}
